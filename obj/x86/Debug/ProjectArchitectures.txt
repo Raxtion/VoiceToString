@@ -1,0 +1,1 @@
+C:\Users\User\OneDrive\Documents\FunctionLib\C#\VoiceToString_CSharp_working\VoiceToString_CSharp.csproj;x86
